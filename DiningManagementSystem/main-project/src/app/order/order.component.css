@@ -1,0 +1,49 @@
+button{
+    margin-left: 5px;
+}
+p{
+    color: green;
+    margin-top: 5px;
+}
+.imgg{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url("../../assets/image/bgOrder.png");
+    background-size: cover;
+    height: 535px;
+    margin-top: -18px;
+    padding-top: 50px;
+}
+.container{
+    border-radius: 10px;
+    border:1px solid black;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    /* width:30%; */
+    background-color : rgba(0, 0, 0, 0.607);
+    color: white;
+
+}
+
+.table{
+    background-color: rgba(255, 255, 255, 0);
+}
+td{
+    background-color: rgba(0, 0, 0, 0.751);
+    color: white;
+}
+th{
+    background-color: rgba(0, 0, 0, 0.751);
+    color: white;
+}
+.container-food-table{
+    background-color: rgba(0, 0, 0, 0.751);
+    color: white;
+}
+
+.rrr{
+    background-color: rgba(255, 255, 255, 0.441);
+}
+.bbb{
+    background-color: rgba(146, 146, 254, 0.479);
+}
+.mm{
+    color: pink;
+}
